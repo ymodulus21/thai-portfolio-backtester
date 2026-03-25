@@ -137,11 +137,3 @@ BBA Finance — Chiang Mai University
 ⭐ Star this repo if you find it useful!
 """
 
-with open('README.md', 'w', encoding='utf-8') as f:
-    f.write(readme)
-
-print("✅ สร้าง README.md สำเร็จ")
-print("\nไฟล์ที่พร้อม Upload GitHub:")
-print("  📓 thai_portfolio_backtester.ipynb")
-print("  📄 README.md")
-print("  📊 backtest_equity_curve.png")
