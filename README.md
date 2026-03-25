@@ -1,4 +1,4 @@
-readme = """# 🇹🇭 Thai Portfolio Backtester
+# 🇹🇭 Thai Portfolio Backtester
 
 > A Python-based portfolio backtesting framework for Thai SET stocks,
 > comparing multiple quantitative strategies with realistic transaction costs.
